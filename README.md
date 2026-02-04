@@ -1,2 +1,2 @@
-# PH328-Assignment
+# hello-world
 Repository for assignment tasks
